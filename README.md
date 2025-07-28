@@ -28,7 +28,7 @@ This project comes from a tutorial offered by **@FranksLaboratory**.
 No prerequisites required — simply open the game in your browser.
 
 ## Installation
-The project is deployed online at: *(add url of deployed game)*
+The project is deployed online at: [Github Pages](https://mikaocko.github.io/shooter-game/)
 
 If you'd like to run the game locally, you can either **download** or **clone** the project to your computer.
 
@@ -39,7 +39,7 @@ Once downloaded, **unzip the file** and **open the `index.html` file in your web
 ### Clone project
 To clone the repository using Git, open a terminal and run:
 ```
-git clone *(add url of repo)*
+git clone https://github.com/MikaOcko/shooter-game.git
 ```
 Replace `your-username` with your actual GitHub username if necessary.
 Once cloned, navigate to the project folder and open `index.html` in your preferred browser.
